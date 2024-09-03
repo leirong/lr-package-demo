@@ -1,1 +1,1 @@
-export { add } from './utils';
+export { add, subtract, multiply, divide } from './utils';
